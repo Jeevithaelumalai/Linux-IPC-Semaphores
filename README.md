@@ -115,8 +115,9 @@ $ ./sem.o
 
 
 $ ipcs
+![image](https://github.com/Jeevithaelumalai/Linux-IPC-Semaphores/assets/118708245/4ae23101-ab69-4453-a6ef-a6285728ca6a)
 
-![Uploading image.png…]()
+
 
 
 
